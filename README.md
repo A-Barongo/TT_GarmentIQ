@@ -2,7 +2,7 @@
 
 [🌐 Official website](https://garmentiq.ly.gd.edu.kg/) | [📖 Documentation](https://garmentiq.ly.gd.edu.kg/documentation/) | [⚙️ Web pipeline](https://garmentiq.ly.gd.edu.kg/application/) | [🪄 MagicBox](https://garmentiq.ly.gd.edu.kg/documentation/magicbox/) | [📄 Paper](https://archive.gd.edu.kg/abs/20250525121523/)
 
-**Precise and flexible garment measurements from images - no tape measures, no delays, just fashion - forward automation.**
+**Free & Open Source. Precise and flexible garment measurements from images - no tape measures, no delays, just fashion - forward automation.**
 
 <img src="https://github.com/user-attachments/assets/49e176e2-59c7-4e8b-b7e1-f834de965760" alt="GarmentIQ" width="600px"/>
 
